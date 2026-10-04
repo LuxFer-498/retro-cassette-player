@@ -1,0 +1,39 @@
+# File pengaturan pribadi
+settings.ini
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.venv/
+
+# File sistem
+Thumbs.db
+.DS_Store
+
+# File build PyInstaller
+build/
+dist/
+*.spec
+
+# File musik (kalau kebetulan ada di folder)
+*.mp3
+*.flac
+*.wav
+*.ogg
+*.m4a
+*.aac
+*.opus
+*.wma
+
+# Background pribadi (opsional, hapus tanda # kalau mau skip)
+# bg.jpg
+# bg.png
+
+# File lama (kalau mau diarsipkan, aktifkan ini)
+# main.py
+# bentuk_walkman.py
+# bentuk_walkman_v2.py
+# bentuk_walkman_v3.py
