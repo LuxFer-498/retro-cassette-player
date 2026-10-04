@@ -1,6 +1,6 @@
 # Retro Cassette Player
 
-![Screenshot](https://github.com/LuxFer-498/retro-cassette-player/raw/main/screenshot.png)
+![Screenshot](https://github.com/LuxFer-498/retro-cassette-player/raw/main/Screenshot.png)
 
 Pemutar musik desktop dengan tampilan kaset retro dan equalizer 10-band.
 
