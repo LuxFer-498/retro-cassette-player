@@ -1,5 +1,7 @@
 # Retro Cassette Player
 
+![Screenshot](https://github.com/LuxFer-498/retro-cassette-player/raw/main/screenshot.png)
+
 Pemutar musik desktop dengan tampilan kaset retro dan equalizer 10-band.
 
 ## Fitur
@@ -16,11 +18,8 @@ Pemutar musik desktop dengan tampilan kaset retro dan equalizer 10-band.
 
 1. Install Python 3.10+
 2. Install dependensi:
-
-pip install PySide6 python-vlc numpy pyaudiowpatch mutagen
 3. Install VLC Media Player (dari videolan.org)
 4. Jalankan:
-
 
 ## Teknologi
 
